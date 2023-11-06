@@ -122,7 +122,7 @@ console.log(now.getHours()); // 1, porque el tiempo es 01:25:25
 const now = new Date();
 console.log(now.getMinutes()) // 25, porque el tiempo es 01:25:25
 
-// Obtner segundos
+// Obtener segundos
 const now = new Date();
 console.log(now.getSeconds()); // 25, porque el tiempo es 01:25:25
 ```
